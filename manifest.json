@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Change a font!",
+      "name" : "JapaneseFont",
+      "uuid" : "bb6f4d56-f599-11e6-bc64-92361f002671",
+      "version" : [ 1, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : "JapaneseFont",
+         "type" : "resources",
+         "uuid": "c1aeab9e-f599-11e6-bc64-92361f002671",
+         "version" : [ 1, 0, 1 ]
+      }
+   ]
+}
