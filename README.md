@@ -6,10 +6,14 @@ It's made for Japanese language, but others can use.
 
 I recommend using english to language settings.
 
+[Download](https://github.com/beito123/JapaneseFont/releases/download/v1.0.8/JapaneseFont.mcpack)
+
 (Japanese)
 mcbeのフォントをNotoフォントに変えるmcbeのアドオンです。
 
 使用する際は言語設定を"英語(English)"に設定することを推奨します。
+
+[ダウンロード](https://github.com/beito123/JapaneseFont/releases/download/v1.0.8/JapaneseFont.mcpack)
 
 ## License
 
